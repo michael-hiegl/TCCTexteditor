@@ -1,0 +1,10 @@
+C:\Users\jvogl\source\repos\TCCTexteditor\TCCTexteditor\bin\Debug\TCCTexteditor.exe.config
+C:\Users\jvogl\source\repos\TCCTexteditor\TCCTexteditor\bin\Debug\TCCTexteditor.exe
+C:\Users\jvogl\source\repos\TCCTexteditor\TCCTexteditor\bin\Debug\TCCTexteditor.pdb
+C:\Users\jvogl\source\repos\TCCTexteditor\TCCTexteditor\obj\Debug\TCCTexteditor.csprojAssemblyReference.cache
+C:\Users\jvogl\source\repos\TCCTexteditor\TCCTexteditor\obj\Debug\TCCTexteditor.Form1.resources
+C:\Users\jvogl\source\repos\TCCTexteditor\TCCTexteditor\obj\Debug\TCCTexteditor.Properties.Resources.resources
+C:\Users\jvogl\source\repos\TCCTexteditor\TCCTexteditor\obj\Debug\TCCTexteditor.csproj.GenerateResource.cache
+C:\Users\jvogl\source\repos\TCCTexteditor\TCCTexteditor\obj\Debug\TCCTexteditor.exe
+C:\Users\jvogl\source\repos\TCCTexteditor\TCCTexteditor\obj\Debug\TCCTexteditor.pdb
+C:\Users\jvogl\source\repos\TCCTexteditor\TCCTexteditor\obj\Debug\TCCTexteditor.HelpForm.resources
